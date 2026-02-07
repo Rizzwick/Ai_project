@@ -1,0 +1,8 @@
+torch
+torchvision
+diffusers
+transformers
+datasets
+accelerate
+peft
+pillow
